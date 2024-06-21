@@ -39,6 +39,8 @@ emp_obj3.input_details()
 emp_obj3.emp_details()
 
 # DATA ABSTRACTION
+
+
 class Sample:
     # public variable
     var1 = "Public Variable"
